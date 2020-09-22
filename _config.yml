@@ -26,3 +26,5 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: yes
+
+theme: jekyll-theme-cayman
