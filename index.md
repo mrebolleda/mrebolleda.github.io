@@ -4,9 +4,8 @@ title: Home
 ---
 
 <header>
-<h1>This is Phantom, a free, fully responsive site<br />
-template designed by <a href="http://html5up.net">HTML5 UP</a>.</h1>
-<p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+<h1>COMMONS: <br />Community organization, Microbial Metabolism, and the Origins of Natural Selection.</h1>
+<p>The acronym stands for "Community organization, microbial metabolism and the origins of Natural Selection". But the name stands for something bigger: A common space to work and create in community. In the lab, we are interested in understanding how predictable are community assembly, function, and evolution? How do ecological dynamics affect evolutionary outcomes? And how, in turn, does evolutionary change affect ecological interactions? What kind of ecological and evolutionary changes open novel trajectories and what kind of changes and interactions canalize future responses? The COMMONS lab is about understanding organisms in relationships. It is about understanding the historical nature of evolution--how microbes shape and are shaped by their ecologies.</p>
 </header>
 
 {% include tiles.html %}
