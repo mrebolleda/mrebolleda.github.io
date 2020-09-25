@@ -9,9 +9,6 @@
 			<h2>{{ page.title }}</h2>
 		</a>
 	</article>
-	{% if page.title %}
-		<li><a href="{{ page.url | prepend: site.baseurl | remove: "Home" }}">{{ page.title }}</a></li>
-	{% endif %}
 {% endfor %}
 
 </section>
