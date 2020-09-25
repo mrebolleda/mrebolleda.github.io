@@ -1,18 +1,13 @@
 <nav id="menu">
 	<h2>Menu</h2>
 	<ul>
-
-		{% for page in site.pages %}
-		{% if page.path == "index.html" %}
-		<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
-		{% endif %} {% endfor %}
-
-		{% for page in site.pages %}
-
-		{% if page.title %}
-
-		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | remove: "Home" }}</a></li>
-
-		{% endif %} {% endfor %}
+		<li><a href="index.html">Home</a></li>
+		<li><a href="/Lab.html">About the lab</a></li>
+		<li><a href="/People.html">People</a></li>
+		<li><a href="/research.html">Research</a></li>
+		<li><a href="/publications.html">Publications</a></li>
+		<li><a href="/PI.html">PI (María Rebolleda-Gómez)</a></li>
+		<li><a href="/join.html">Join</a></li>
 	</ul>
 </nav>
+
