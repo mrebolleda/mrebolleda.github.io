@@ -8,7 +8,14 @@
 		<a href="{{ page.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ page.title }}</h2>
 		</a>
+		{% if page.path == "index.html" %}
+			<a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a>
+		{% endif %}
+		{% if page.title %}
+			<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | remove: "Home" }}</a>
+		{% endif %}
 	</article>
 {% endfor %}
 
 </section>
+
