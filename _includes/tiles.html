@@ -1,6 +1,6 @@
 <section class="tiles">
 
-{% for page in site.pages limit:site.front-page-posts %}
+{% for page in site.pages %}
 	<article class="style{{ forloop.index }}">
 		<span class="image">
 			<img src="{{ site.url }}{{ site.baseurl }}/images/ImageTalk.jpg" alt="" />
