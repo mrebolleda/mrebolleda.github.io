@@ -5,7 +5,7 @@ featured-image: images/pic13.jpg
 ---
 
 ## María Rebolleda Gómez (about me)
-![me](NewOreleans.jpg)
+![me](images/NewOreleans.jpg){: style="float: left"}
 
 I am an evolutionary ecologist fascinated with bacteria, fungi, and plants. I did my undergraduate degree in Biology at UNAM (the National University in Mexico) and my PhD at the University of Minnesota with Michael Travisano. 
 
