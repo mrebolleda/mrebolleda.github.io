@@ -5,6 +5,8 @@ featured-image: images/pic13.jpg
 ---
 
 ## María Rebolleda Gómez (about me)
+![me](NewOreleans.jpg)
+
 I am an evolutionary ecologist fascinated with bacteria, fungi, and plants. I did my undergraduate degree in Biology at UNAM (the National University in Mexico) and my PhD at the University of Minnesota with Michael Travisano. 
 
 I am interested in how evolutionary processes evolve, the roles of history and chance in ecology and evolution, and microbial eco-evolutionary dynamics: how ecological interactions affect evolutionary pathways and how evolution transforms ecological processes. But I am also very interested (not in order of importance) in politics, the complex interactions between science and society, geography and architecture. I like to see the world with different lenses and I have found that learning and interacting with people from other disciplines keeps me creative and engaged. In particular I am fascinated by the importance of space in shaping interactions and everyday dynamics from social housing, community spaces, urban planning to the evolution of microbial interactions. My engagements and interdisciplinary collaborations vary: workshops, outreach, community involvement, teaching and mentorship as well as different research initiatives.

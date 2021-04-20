@@ -11,7 +11,7 @@ In a rapidly changing world, we would like to predict the ecological and evoluti
 
 # Microbial evolution within communities
 
-# Evolution of metabolic architectures and their ecological and evolutionary consequences
+# Evolution of metabolic architectures and their ecological, and evolutionary consequences
 
 # Multiple levels of selection and directed evolution of microbial communities
 
