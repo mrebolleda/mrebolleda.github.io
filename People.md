@@ -1,7 +1,6 @@
 ---
 layout: page
 title: People
-featured-image: images/pic13.jpg
 ---
 
 ## María Rebolleda Gómez (about me)
@@ -19,5 +18,12 @@ When outside the lab, I might be reading, hiking in the mountains, playing tenni
 
 
 ## Emiliana Zapata 
+<img style="float: right;" src="images/emi2.JPG">
+Emiliana Zapata is the lab pet. She is intereted in microbial volatiles and volatiles produced through microbe-animal interactions. She is named after Emiliano Zapata, a leader of the Mexican Revolution. 
 
 ## You?
+The COMMONS lab is just starting. We are looking to work with a lab technician or lab manager, and a postdoc. 
+
+If you are interested in joinning the COMMONS lab, reach out! Write Maria an email (currently: maria.rebolleda-gomez@yale.edu)
+
+

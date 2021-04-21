@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-featured-image: images/pic13.jpg
+featured-image: images/ExperimentSetup.jpg
 ---
 
 In a rapidly changing world, we would like to predict the ecological and evolutionary trajectories of populations and communities. But both ecology and evolution are historical sciences—trajectories are often contingent on previous steps. Individuals and populations do not exist in a vacuum; they exist and evolve in a complex network of ecological interactions.  In the COMMONS lab we are interested in how, as organisms evolve, they transform their interactions and how these ecological changes feedback in the evolutionary dynamics and trejectories of populations and communities.

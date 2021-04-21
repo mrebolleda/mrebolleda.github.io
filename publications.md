@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-featured-image: images/Experiment.png
+featured-image: images/PaperFig.png
 ---
 We are commited to open reserach and we will post all of our papers to a pre-print server by the time of submission. 
 *Asterisk indicates co-first authors*
