@@ -4,7 +4,7 @@ title: People
 ---
 
 ## María Rebolleda Gómez (about me)
-<img style="float: right;" src="images/NewOrleans.jpg">
+<img style="float: left;" src="images/NewOrleans.jpg">
 
 I am an evolutionary ecologist fascinated with bacteria, fungi, and plants. I did my undergraduate degree in Biology at UNAM (the National University in Mexico) and my PhD at the University of Minnesota with Michael Travisano. 
 
@@ -16,14 +16,13 @@ I tend to be pluralist about ways of thinking and forms of looking at the world.
 I am a first year PhD student in Ecology and Evolutionary Biology at UCI. I graduated from Universidad Nacional del Comahue, in Argentine Patagonia. I am interested in how eco-evolutionary factors interact at different spatio-temporal scales. More specifically, I seek to elucidate the adaptive role of epigenetics in communities of sessile organisms under climate change scenarios. Additionally, I see outreach and teaching as tools to make science a truly collective activity. In the COMMONS lab I will study how the composition of microbial communities is affected by global warming, and evaluate its potential consequences on biogeochemical cycles.
 When outside the lab, I might be reading, hiking in the mountains, playing tennis or carving wood.
 
-
 ## Emiliana Zapata 
-<img style="float: right;" src="images/emi2.JPG">
+<img style="float: left;" src="images/emi2.JPG">
 Emiliana Zapata is the lab pet. She is intereted in microbial volatiles and volatiles produced through microbe-animal interactions. She is named after Emiliano Zapata, a leader of the Mexican Revolution. 
 
 ## You?
 The COMMONS lab is just starting. We are looking to work with a lab technician or lab manager, and a postdoc. 
 
-If you are interested in joinning the COMMONS lab, reach out! Write Maria an email (currently: maria.rebolleda-gomez@yale.edu)
+If you are interested in joinning the COMMONS lab, read our website and reach out! Write Maria an email (currently: maria.rebolleda-gomez@yale.edu) with some information about you and why are you interested in joinning. 
 
 
