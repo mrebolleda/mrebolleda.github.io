@@ -9,13 +9,20 @@ Our world is becoming increasingly scientific, with scientists interacting in th
 
 
 ## Past classes
+Advised the teaching faculty at the Department of Biological Sciences at the University of Pittsburgh in designing an introductory biology lab for undergraduate students (800/year) coupled to my [research in flower coloration and microbial associations](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mbo3.1158).
+
+### Carnegie Mellon University 
+- 99-236: Introduction to Environmental Ideas (upper undergraduate level interdisciplinary class, co-taught with an environmental historian; Carnegie Mellon University)
 
 ### Department of Biological Sciences, University of Pittsburgh
- - BIOSC 2351: Advanced Evolution. Graduate Seminar in Evolutionary Theory (2018)
- - 
+- BIOSC 2351: Advanced Evolution. Graduate Seminar in Evolutionary Theory (2018) [syllabus](https://mrebolleda.github.io/files/Advanced_Evolution_Seminar.pdf)
+- BIOSC 2110: Microbial Diversity. Graduate seminar; University of Pittsburgh (2017) [syllabus](https://mrebolleda.github.io/files/syllabus_microbialecol_pitt.pdf)
 
 
 ## Presentations 
+
+### Predictability of microbial ecology and evolution
+2020. MEE virtual. ["Evolution of metabolic interactions in a Long-Term Community"](https://www.youtube.com/watch?v=qMPk9SfCh8A)
 
 ### Plant-microbe interactions
 2018. Green Life Science Symposium. ["Eco-evolutionary dynamics of flower microbiomes"](https://www.youtube.com/watch?v=6Quxeoy01aY&list=PLY8QfwKxxfG5hAuV8_YmzkRNPdpAzrulU&index=5)
@@ -26,8 +33,3 @@ Our world is becoming increasingly scientific, with scientists interacting in th
 
 2016. Evolution Conference. ["Experimental adaptation under UV radiation: a case for multi-level adaptation"](https://www.youtube.com/watch?v=dYIiRaX1g_g&t=484s)
 
-
-
-
-LTCEE
-https://www.youtube.com/watch?v=qMPk9SfCh8A

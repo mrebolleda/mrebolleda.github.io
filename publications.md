@@ -9,7 +9,7 @@ We are commited to open reserach and we will post all of our papers to a pre-pri
 # Publications submitted
 - Estrela S., J. C. C. Vila, N. Lu, D. Bajic, **M. Rebolleda-Gomez**, C-Y Chang & A. Sanchez. Metabolic rules of microbial community assembly. ([preprint](https://www.biorxiv.org/content/biorxiv/early/2020/03/11/2020.03.09.984278.full.pdf))
 
-- O'Brien, A., N. Ginnan, **M. Rebolleda-Gómez** & M. R. Wagner.([preprint](https://ecoevorxiv.org/exadg/))
+- O'Brien, A., N. Ginnan, **M. Rebolleda-Gómez** & M. R. Wagner. Microbial effects on plant phenology and fitness. ([preprint](https://ecoevorxiv.org/exadg/))
 
 # Peer reviewed publications
 - Duffy, M., C. García-Robledo, S. P. Gordon, N. A. Grant, D. A. Green II, A. Kamath, R. M. Penczykowski, **M. Rebolleda-Gómez**, N. Wale & L. Zaman. (2021). Model systems in ecology, evolution, and behavior: A call for diversity in our model systems and discipline. In press at The American Naturalist. ([pdf without formatting](https://www.journals.uchicago.edu/doi/pdf/10.1086/714574))
