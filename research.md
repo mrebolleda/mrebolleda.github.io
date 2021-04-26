@@ -16,9 +16,9 @@ Overall we are trying to understand (and potentially predict) the ecological and
 ## Historical contingency and predictability of ecological and evolutionary dynamics
 In a rapidly changing world, we would like to predict the ecological and evolutionary trajectories of populations and communities. But both ecology and evolution are historical sciences and as such, trajectories are often contingent in previous steps. This "historical contingency" is often considered a source of unpredictability because small stochastic differences in mutations or species sampling could lead to very different outcomes. However, [selection could override those small differences with time](https://onlinelibrary.wiley.com/doi/epdf/10.1111/evo.13654). Thus, we are interested in understanding: 
 
-    - How and when do past changes shape future ecological and evolutionary trajectories? 
-    - When do small stochastic differences get amplified, and when is selection able to override the effects of historical contingency? 
-    - To what extent and at what scales are we able to predict ecological and evolutionary trajectories of microbial communities? 
+- How and when do past changes shape future ecological and evolutionary trajectories? 
+- When do small stochastic differences get amplified, and when is selection able to override the effects of historical contingency? 
+- To what extent and at what scales are we able to predict ecological and evolutionary trajectories of microbial communities? 
 
 ### Microbial evolution within communities
 
