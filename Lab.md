@@ -4,7 +4,7 @@ title: About the lab
 featured-image: images/pic13.jpg
 ---
 
-The acronym stands for "Community organization, microbial metabolism and the origins of Natural Selection". But the name stands for something bigger: A common space to work and create in community. The culture and science of the lab are both based on the premise that we do not exist in isolation. We exist in relationship with each other and with our environment. Each of those relationships, in turn, is shaped by all the relationships that make our unique histories. Recognizing this permeability and complex network means recognizing that we do not make science in a vacuum, that we make science in particular historical and political moments, from perspectives shaped by our own experiences and identities. 
+The acronym stands for "Community Organization, Microbial Metabolism and the Origins of Natural Selection". But the name stands for something bigger: A common space to work and create in community. The culture and science of the lab are both based on the premise that we do not exist in isolation. We exist in relationship with each other and with our environment. Each of those relationships, in turn, is shaped by all the relationships that make our unique histories. Recognizing this permeability and complex network means recognizing that we do not make science in a vacuum, that we make science in particular historical and political moments, from perspectives shaped by our own experiences and identities. 
 
 >The COMMONS lab is an interdisciplinary and pluralist space, where diverse identities and perspectives are indispensable for the success of this learning community.
 
