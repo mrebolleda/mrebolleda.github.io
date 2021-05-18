@@ -6,17 +6,17 @@ featured-image: images/PaperFig.png
 We are commited to open reserach and we will post all of our papers to a pre-print server by the time of submission. 
 *Asterisk indicates co-first authors*
 
-# Publications submitted
-- Estrela S., J. C. C. Vila, N. Lu, D. Bajic, **M. Rebolleda-Gomez**, C-Y Chang & A. Sanchez. Metabolic rules of microbial community assembly. ([preprint](https://www.biorxiv.org/content/biorxiv/early/2020/03/11/2020.03.09.984278.full.pdf))
+## Publications submitted
+- Estrela S., J. C. C. Vila, N. Lu, D. Bajic, **M. Rebolleda-Gomez**, C-Y Chang & A. Sanchez. Metabolic rules of microbial community assembly. ([online version](https://www.nature.com/articles/s41559-021-01457-5))
 
 - O'Brien, A., N. Ginnan, **M. Rebolleda-Gómez** & M. R. Wagner. Microbial effects on plant phenology and fitness. ([preprint](https://ecoevorxiv.org/exadg/))
 
-# Peer reviewed publications
+## Peer reviewed publications
 - Duffy, M., C. García-Robledo, S. P. Gordon, N. A. Grant, D. A. Green II, A. Kamath, R. M. Penczykowski, **M. Rebolleda-Gómez**, N. Wale & L. Zaman. (2021). Model systems in ecology, evolution, and behavior: A call for diversity in our model systems and discipline. In press at The American Naturalist. ([pdf without formatting](https://www.journals.uchicago.edu/doi/pdf/10.1086/714574))
 
-- Sánchez A., J. C. C. Vila, C-Y Chang, J. Díaz-Colunga, S. Estrela & **M. Rebolleda-Gomez**. (2021). Directed evolution of microbial communities. Annual Review of Biophysics. ([preprint](https://www.annualreviews.org/doi/abs/10.1146/annurev-biophys-101220-072829))
+- Sánchez A., J. C. C. Vila, C-Y Chang, J. Díaz-Colunga, S. Estrela & **M. Rebolleda-Gomez**. (2021). Directed evolution of microbial communities. Annual Review of Biophysics. ([author copy](https://www.annualreviews.org/doi/abs/10.1146/annurev-biophys-101220-072829))
 
-- Chang, C-Y, J. C.C. Vila, M. Bender, R. Li, M. C. Mankowski, M. Bassette, J. Borden, S. Golfier, P. G. Sanchez, R. Waymack, X. Zhu, J. Diaz-Colunga, S. Estrela, **M. Rebolleda-Gomez** & Alvaro Sanchez. (2021). Engineering complex communities by directed evolution. In press at Nature Ecology & Evolution. ([preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.214775v2.full.pdf))
+- Chang, C-Y, J. C.C. Vila, M. Bender, R. Li, M. C. Mankowski, M. Bassette, J. Borden, S. Golfier, P. G. Sanchez, R. Waymack, X. Zhu, J. Diaz-Colunga, S. Estrela, **M. Rebolleda-Gomez** & Alvaro Sanchez. (2021). Engineering complex communities by directed evolution. Nature Ecology & Evolution. ([preprint](https://www.biorxiv.org/content/10.1101/2020.07.24.214775v2.full.pdf))
 
 - S. Estrela\*, A. Sanchez\* & **M. Rebolleda‐Gómez**\*. (2021). Multi-replicated enrichment communities as a model system in microbial ecology. Frontiers in Microbiology. ([online version](https://www.frontiersin.org/articles/10.3389/fmicb.2021.657467/full))
 
