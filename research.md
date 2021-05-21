@@ -10,7 +10,7 @@ featured-image: images/ExperimentSetup.jpg
 Overall we are trying to understand (and potentially predict) the ecological and evolutionary dynamics of microbial communities. The main idea is to understand cells and their physiology as they exist in relationship with the environment and other cells. To accomplish this, we often (but not exclusively) work with [self-assebled microbial communities](https://www.frontiersin.org/articles/10.3389/fmicb.2021.657467/full) in relatively simple environments where we can understand their function and physiology without removing the context and interactions that are central to this functioning.
 
 > *The problem is to construct a third view, one that sees the entire world neither as an indissoluble whole nor with the equally incorrect, but currently dominant, view that at every level the world is made up of bits and pieces that can be isolated and that have properties that can be studied in isolation.*
-> - Lewontin (Biology as ideology)
+>  Lewontin (Biology as ideology)
 
 
 ## Historical contingency and predictability of ecological and evolutionary dynamics
