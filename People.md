@@ -17,7 +17,7 @@ I am a first year PhD student in Ecology and Evolutionary Biology at UCI. I grad
 When outside the lab, I might be reading, hiking in the mountains, playing tennis or carving wood.
 
 ## Liz Ortiz De Ora Ortiz
-<img style="float: left;" src="images/Liz.jpg" width="200">
+<img style="float: right;" src="images/Liz.jpg" width="200">
 I am originally from Mexico and earned my PhD in molecular microbiology from Tel Aviv University. I am passionate about the molecular mechanisms by which bacteria thrive in their environments. My research focuses on understanding inter-kingdom signaling mechanisms that govern host-microbe interactions and evolution.
 
 ## Daniela Reyes
@@ -29,18 +29,18 @@ Currently, I’m interested in understanding the ecological role of antimicrobia
 I’m also interest in gender and ethics studies applied to science, the interactions between science and art and science communication.
 In my free time I enjoy knitting, reading and photography.
 Web: https://danielareyesglez.com
-Google Scholar: Daniela Reyes-González https://scholar.google.es/citations?user=fwnfLJgAAAAJ&hl=es
+Google Scholar: [Daniela Reyes-González] (https://scholar.google.es/citations?user=fwnfLJgAAAAJ&hl=es)
 Twitter: @DanielaReyesGlez
 
 %## Alejandra Hernández
 
 # Lab alumni
 ## Anaïs Trinephi
-<img style="float: left;" src="images/Anais_sm.png" width="200">
+<img style="float: right;" src="images/Anais_sm.png" width="200">
 Recent graduate from UCI (Bachelor's degree in Biological Sciences), now going to Columbia University to do a masters in biotechnology.  I enjoy gaining hands-on laboratory experience and have career goals of working as a scientist in the biotechnological field.  I want to contribute to scientific progress by working on projects that respond to issues that are prevalent in today's world.  As a member of the COMMONS lab, I was studying the composition and assembly of microbial communities as well as their capacity to produce CO2 as lignin decomposers to explore their potential uses in biofuel production in the context of climate change. Other than furthering my interest in biological sciences, I love expressing my creativity through drawing or painting.
 
 ## Jonathan Villafana
-<img style="float: left;" src="images/Jonathan.jpg" width="200">
+<img style="float: left;" src="images/Jonathan.jpg" width="180">
 Recent graduate from UCI (Neurobiology major at UCI). I am a first-generation student. I am interested in exploring the intersection of microbial ecology, medicine, and research to discover novel solutions to age-old problems. More specifically: how microbial organisms can be used to address the issues of antibiotic resistance and climate change. In the COMMONS lab, I was studying the role of fungal and bacterial community assembly on specific biochemical processes. Outside of the lab, I enjoy singing, having existential crises about space, and traveling. 
 
 
@@ -51,6 +51,10 @@ Emiliana Zapata is the lab pet. She is interested volatiles produced through mic
 
 ## You?
 
-If you are a graduate student interested in joinning the COMMONS lab, read our website and reach out! Write Maria an email (mreboll1@uci.edu) with some information about you and why are you interested in joinning. **We currently do not have funding for new postdocs**
+If you are a graduate student interested in joinning the COMMONS lab, read our website and reach out! Write Maria an email (mreboll1@uci.edu) with some information about you and why are you interested in joinning.
+
+If you are an undergraduate student interested in doing reserach in our lab as part of BIO199, please reach out! Write Maria an email (mreboll1@uci.edu) with some information about you and why are you interested in joinning our lab.
+
+**We currently do not have funding for new postdocs**
 
 
