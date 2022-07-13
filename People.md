@@ -28,6 +28,7 @@ I’m a microbiologist trying to understand ecological interactions between micr
 Currently, I’m interested in understanding the ecological role of antimicrobial molecules in natural microbial communities and the importance of metabolic changes in the structure and functionality of communities.
 I’m also interest in gender and ethics studies applied to science, the interactions between science and art and science communication.
 In my free time I enjoy knitting, reading and photography.
+
 Web: https://danielareyesglez.com
 
 Google Scholar: [Daniela Reyes-González](https://scholar.google.es/citations?user=fwnfLJgAAAAJ&hl=es)
