@@ -6,7 +6,7 @@ featured-image: images/PaperFig.png
 We are commited to open reserach and we will post all of our reserach papers to a pre-print server by the time of submission. 
 *Asterisk indicates co-first authors*
 
-%## Publications submitted
+<!--## Publications submitted -->
 
 ## Peer reviewed publications
 - Kamath A. \*, B. Velocci \*, A. Wesner, N. Chen, V. Formica, B. Subramaniam & M. Rebolleda-Gómez. (2022). Nature, Data, and Power: How Hegemonies Shaped this Special Section. ([preliminary version](https://www.journals.uchicago.edu/doi/pdf/10.1086/720001))
