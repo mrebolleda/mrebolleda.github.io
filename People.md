@@ -13,13 +13,16 @@ I tend to be pluralist about ways of thinking and forms of looking at the world.
 
 
 ## Ariel Favier
-<img style="float: left;" src="images/Ariel.jpg">
-I am a second year PhD student in Ecology and Evolutionary Biology at UCI. I graduated from Universidad Nacional del Comahue, in Argentine Patagonia. I am interested in how eco-evolutionary factors interact at different spatio-temporal scales. More specifically, I seek to elucidate the adaptive role of epigenetics in communities of sessile organisms under climate change scenarios. Additionally, I see outreach and teaching as tools to make science a truly collective activity. In the COMMONS lab I will study how the composition of microbial communities is affected by global warming, and evaluate its potential consequences on biogeochemical cycles.
-When outside the lab, I might be reading, hiking in the mountains, playing tennis or carving wood.
+<img style="float: left;" src="images/ariel1.png">
+I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a place of extremes, I developed a curiosity for the adaptability of all natural things. My work at the COMMONS Lab looks at how bacterial physiology has historically evolved and what that entails for its adaptability to a boiling world. On that note, I always enjoy chatting about our own species’ uncertain future, and all things worth caring for. I also love music, books, and spending a lot of time on small things.
 
-<img style="float: right;" src="images/Liz.jpg" width="180">
-## Liz Ortiz De Ora Ortiz
-I am originally from Mexico and earned my PhD in molecular microbiology from Tel Aviv University. I am passionate about the molecular mechanisms by which bacteria thrive in their environments. My research focuses on understanding inter-kingdom signaling mechanisms that govern host-microbe interactions and evolution.
+afavier@uci.edu
+
+## Jaewook Lee
+<img style="float: left;" src="images/jaewook.png">
+I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
+
+jaewool8@uci.edu
 
 
 ## Daniela Reyes
@@ -51,6 +54,11 @@ If you are an undergraduate student interested in doing reserach in our lab as p
 
 
 # Lab alumni
+## Liz Ortiz De Ora Ortiz
+<img style="float: right;" src="images/Liz.jpg" width="180">
+I am originally from Mexico and earned my PhD in molecular microbiology from Tel Aviv University. I am passionate about the molecular mechanisms by which bacteria thrive in their environments. My research focuses on understanding inter-kingdom signaling mechanisms that govern host-microbe interactions and evolution.
+
+
 ## Anaïs Trinephi
 <img style="float: right;" src="images/Anais_sm.png" width="200">
 Recent graduate from UCI (Bachelor's degree in Biological Sciences), now going to Columbia University to do a masters in biotechnology.  I enjoy gaining hands-on laboratory experience and have career goals of working as a scientist in the biotechnological field.  I want to contribute to scientific progress by working on projects that respond to issues that are prevalent in today's world.  As a member of the COMMONS lab, I was studying the composition and assembly of microbial communities as well as their capacity to produce CO2 as lignin decomposers to explore their potential uses in biofuel production in the context of climate change. Other than furthering my interest in biological sciences, I love expressing my creativity through drawing or painting.
