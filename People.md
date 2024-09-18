@@ -26,7 +26,7 @@ I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a pl
 
 
 ## Jaewook Lee
-<img style="float: left;" src="images/jaewook.jpg">
+<img style="float: left;" src="images/jaewook1.jpg">
 I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
 
 ## Joquin Lopez
