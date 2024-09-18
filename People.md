@@ -34,15 +34,15 @@ I am a third year PhD student in the Ecology and Evolutionary Biology department
 I am a first-year PhD student in Ecology and Evolutionary Biology at UCI. I recently graduated from California State University San Marcos, where my research focused on investigating growth phenotypes and the expression of nitrogen-regulated genes in Arabidopsis thaliana. Additionally, I studied how variations in litter and land cover types influence initial rates of decomposition. In the COMMONS lab, I aim to integrate my previous research experiences and explore plant-microbe interactions, particularly how plants recruit beneficial microbial communities and how these mutualistic relationships are impacted by global change. Outside the lab, I enjoy exploring new coffee shops, reading fantasy and science fiction, camping, hiking, and cooking. Fun fact I have two fluffy orange cats!
 
 ## Jaycee Fahrner
-<img style="float: right;" src="jaycee.jpg">
+<img style="float: right;" src="jaycee.png">
 I grew up in Santa Cruz, California and graduated from UCI with a BS in Ecology and Evolutionary Biology. I was adopted by the lab as a research assistant following graduation and since then, I have been studying the impact of different antibiotics and carbon sources on microbial community dynamics. My research interests lie somewhere in the realm of how microbial ecology modulates plant and insect interactions–especially in the context of a changing environment. I look forward to applying for an ecology-based PhD program to pursue these interests further in 2025! Outside the lab, I love to cook, walk around aimlessly and chat with friends, obsessively find ant trails, and hunt for cool finds at local thrifts.
 
-## Manu Cardoso
+## Manny Vergara Cardoso
 <img style="float: right;" src="manu.jpg">
 I was born and raised in Puebla, Mexico where my interest in plants, animals, and the environment grew. Currently working on my biology BS from UCI, and part time bartender. I am interested in the interactions between microorganisms and their environment with plants. In the future I plan to work in the healthcare system, and try to make a positive change in the world.
 
-## Valeria Molina
-<img style="float: right;" src="val.jpg">
+## Valeria Molina Castillejos
+<img style="float: right;" src="val1.jpg">
 I’m an international student from Mexico and a 4th-year Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
 
 ## Emiliana Zapata 
@@ -77,7 +77,7 @@ Twitter: [@DanielaReyesGlez](https://twitter.com/DanielaReyesGlz)
 I am originally from Mexico and earned my PhD in molecular microbiology from Tel Aviv University. I am passionate about the molecular mechanisms by which bacteria thrive in their environments. My research focuses on understanding inter-kingdom signaling mechanisms that govern host-microbe interactions and evolution.
 
 ## Alyba Nisar
-<img style="float: right;" src="images/alyba.jpg" width="180">
+<img style="float: right;" src="images/alyba1.jpg" width="180">
 I graduated from UCI with a bachelor's degree in Biological Sciences. I am passionate about delving into the intricate relationship between microbial ecology and medicine through rigorous research. My goal is to uncover innovative solutions to longstanding medical challenges by leveraging the unique insights gained from studying microbial communities. Ultimately, I aspire to become a doctor, where I can apply my knowledge and research to directly impact patient care and contribute to the advancement of medical science. In the COMMONS Lab, I am investigating how the composition of bacterial communities affects the dynamics of antibiotic resistance. Besides my research and studying, I enjoy going out with my friends and family trying new restaurants, I love working out, doing floral work, and interior designing!
 
 ## Kelly Tsai
@@ -89,7 +89,7 @@ Hi! I’m Kelly! I’ve recently graduated from UCI as a Human Biology major, cu
 I received my undergraduate degree in Biological Sciences along with a minor in Medical Humanities from UCI. I have always had an interest in healthcare and am currently in school to become a dental hygienist. In the COMMONS lab, I studied the effects of different microbial communities on the developmental timing and fitness of Arabidopsis thaliana. I like to keep houseplants, which made me interested in how different variables can affect plant development. In my collection, I have over 20 house plants ranging from monsteras to philodendrons to pothos. I also enjoy reading, cooking, and finding new food places.
 
 ## Kaitlyn Ho
-<img style="float: right;" src="images/kaitlyn.jpg" width="180">
+<img style="float: right;" src="images/kaitlyn1" width="180">
 I am a Biological Sciences graduate from UCI. My curiosity about microbes developed upon taking a course on how gut health is influenced by microbiomes. This new interest, combined with my love for plants, led me to pursue undergraduate research in microbial ecology! In the COMMONS Lab, I explored how particular microbial communities impact plant development and fitness. Currently, I am working toward a career as a Clinical Laboratory Scientist and enjoy gardening, weightlifting, and cooking/baking in my free time.
 
 
