@@ -15,11 +15,13 @@ I tend to be pluralist about ways of thinking and forms of looking at the world.
 <img style="float: left;" src="images/ale.jpg">
 I am a plant and microbial ecologist, deeply passionate about understanding plant-microbiome interactions and their impacts on plant fitness. My long-term goal is to apply this knowledge to improve agricultural practices. I earned my undergraduate degree in Biology from the Universidad Autónoma Metropolitana in Mexico City. I then pursued a PhD in Sciences at the Instituto de Ecología of the Universidad Nacional Autónoma de México (UNAM), under the guidance of Dr. Ana E. Escalante. My doctoral research explored how plant genetic diversity influences phenotypic traits and ecological interactions in wild cotton populations. Currently, in the COMMONS Lab, my research centers on investigating the effects of the microbiome on plant development, using Arabidopsis thaliana as a model. I am also studying how plant domestication influences the assembly and diversity of the root microbiome across various crops. Also, I have a strong interest in bioinformatics and data visualization. Outside of my scientific work, I enjoy botanical drawing, bouldering, and cycling.
 
+
 alejh18@uci.edu
 
 ## Bryan Lynn
 <img style="float: left;" src="images/bryan.jpg">
 Bryan takes both a theoretical and empirical approach to understanding the effect of microbial interactions, ecology, and evolution. His first passion was math. Earning his BS in mathematics from the University of Massachusetts – Boston he later found himself enamored with applying mathematical theory to microbial ecology. He went on to earn a PhD in Integrative Biology from Oregon State University with advisors Patrick De Leenheer and Martin Schuster by combining both theoretical and lab experimentation to understand how cooperation (or the lack thereof) via the production of a public good enzyme influences microbial population dynamics. His current project as a Postdoctoral researcher investigates how spatial structure influences a microbial community’s functions and stability. Generally, Bryan is interested in the intersections of ecology, evolution, and social science. Outside of academia you can usually find Bryan obsessing over his cat, Pancake, trying to find the best doughnuts in town, or starting a new craft to abandon halfway through finishing.
+
 
 bklynn@uci.edu
 
@@ -28,11 +30,13 @@ bklynn@uci.edu
 <img style="float: left;" src="images/ariel1.jpg">
 I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a place of extremes, I developed a curiosity for the adaptability of all natural things. My work at the COMMONS Lab looks at how bacterial physiology has historically evolved and what that entails for its adaptability to a boiling world. On that note, I always enjoy chatting about our own species’ uncertain future, and all things worth caring for. I also love music, books, and spending a lot of time on small things.
 
+
 afavier@uci.edu
 
 ## Jaewook Lee
 <img style="float: left;" src="images/jaewook.jpg">
 I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
+
 
 jaewool8@uci.edu
 
@@ -40,11 +44,13 @@ jaewool8@uci.edu
 <img style="float: left;" src="images/joquin.jpg">
 I am a first-year PhD student in Ecology and Evolutionary Biology at UCI. I recently graduated from California State University San Marcos, where my research focused on investigating growth phenotypes and the expression of nitrogen-regulated genes in Arabidopsis thaliana. Additionally, I studied how variations in litter and land cover types influence initial rates of decomposition. In the COMMONS lab, I aim to integrate my previous research experiences and explore plant-microbe interactions, particularly how plants recruit beneficial microbial communities and how these mutualistic relationships are impacted by global change. Outside the lab, I enjoy exploring new coffee shops, reading fantasy and science fiction, camping, hiking, and cooking. Fun fact I have two fluffy orange cats!
 
+
 joaquinl@uci.edu
 
 ## Jaycee Fahrner
 <img style="float: right;" src="jaycee.jpg">
 I grew up in Santa Cruz, California and graduated from UCI with a BS in Ecology and Evolutionary Biology. I was adopted by the lab as a research assistant following graduation and since then, I have been studying the impact of different antibiotics and carbon sources on microbial community dynamics. My research interests lie somewhere in the realm of how microbial ecology modulates plant and insect interactions–especially in the context of a changing environment. I look forward to applying for an ecology-based PhD program to pursue these interests further in 2025! Outside the lab, I love to cook, walk around aimlessly and chat with friends, obsessively find ant trails, and hunt for cool finds at local thrifts.
+
 
 jfahrner@uci.edu
 
