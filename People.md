@@ -13,34 +13,38 @@ I tend to be pluralist about ways of thinking and forms of looking at the world.
 
 
 ## Ariel Favier
-<img style="float: left;" src="images/ariel1.png">
+<img style="float: left;" src="images/ariel1.jpg">
 I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a place of extremes, I developed a curiosity for the adaptability of all natural things. My work at the COMMONS Lab looks at how bacterial physiology has historically evolved and what that entails for its adaptability to a boiling world. On that note, I always enjoy chatting about our own species’ uncertain future, and all things worth caring for. I also love music, books, and spending a lot of time on small things.
 
 afavier@uci.edu
 
 ## Jaewook Lee
-<img style="float: left;" src="images/jaewook.png">
+<img style="float: left;" src="images/jaewook.jpg">
 I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
 
 jaewool8@uci.edu
 
+## Joquin Lopez
+<img style="float: left;" src="images/joquin.jpg">
+I am a first-year PhD student in Ecology and Evolutionary Biology at UCI. I recently graduated from California State University San Marcos, where my research focused on investigating growth phenotypes and the expression of nitrogen-regulated genes in Arabidopsis thaliana. Additionally, I studied how variations in litter and land cover types influence initial rates of decomposition. In the COMMONS lab, I aim to integrate my previous research experiences and explore plant-microbe interactions, particularly how plants recruit beneficial microbial communities and how these mutualistic relationships are impacted by global change. Outside the lab, I enjoy exploring new coffee shops, reading fantasy and science fiction, camping, hiking, and cooking. Fun fact I have two fluffy orange cats!
 
-## Daniela Reyes
-<img style="float: left;" src="images/Daniela.jpg" width="180">
-I’m a microbiologist trying to understand ecological interactions between microbes and their environment. I have an undergrad degree in microbiology from the Autonomous University of Queretaro (UAQ) and a Ph.D in science from the National Autonomous University of Mexico (UNAM), where I worked identifying and describing microbial interactions using a synthetic experimental system and mathematical models in the [Fuentes-Hernández lab](http://www.fuentes-hernandez.com/) at the Center of Genomic Sciences.
-Currently, I’m interested in understanding the ecological role of antimicrobial molecules in natural microbial communities and the importance of metabolic changes in the structure and functionality of communities.
-I’m also interest in gender and ethics studies applied to science, the interactions between science and art and science communication.
-In my free time I enjoy knitting, reading and photography.
+joaquinl@uci.edu
 
-Web: https://danielareyesglez.com
+## Alejandra Hernández-Terán
+<img style="float: left;" src="images/ale.jpg">
+I am a plant and microbial ecologist, deeply passionate about understanding plant-microbiome interactions and their impacts on plant fitness. My long-term goal is to apply this knowledge to improve agricultural practices. I earned my undergraduate degree in Biology from the Universidad Autónoma Metropolitana in Mexico City. I then pursued a PhD in Sciences at the Instituto de Ecología of the Universidad Nacional Autónoma de México (UNAM), under the guidance of Dr. Ana E. Escalante. My doctoral research explored how plant genetic diversity influences phenotypic traits and ecological interactions in wild cotton populations. Currently, in the COMMONS Lab, my research centers on investigating the effects of the microbiome on plant development, using Arabidopsis thaliana as a model. I am also studying how plant domestication influences the assembly and diversity of the root microbiome across various crops. Also, I have a strong interest in bioinformatics and data visualization. Outside of my scientific work, I enjoy botanical drawing, bouldering, and cycling.
 
-Google Scholar: [Daniela Reyes-González](https://scholar.google.es/citations?user=fwnfLJgAAAAJ&hl=es)
+alejh18@uci.edu
 
-Twitter: [@DanielaReyesGlez](https://twitter.com/DanielaReyesGlz)
+## Bryan Lynn
+<img style="float: left;" src="images/bryan.jpg">
+Bryan takes both a theoretical and empirical approach to understanding the effect of microbial interactions, ecology, and evolution. His first passion was math. Earning his BS in mathematics from the University of Massachusetts – Boston he later found himself enamored with applying mathematical theory to microbial ecology. He went on to earn a PhD in Integrative Biology from Oregon State University with advisors Patrick De Leenheer and Martin Schuster by combining both theoretical and lab experimentation to understand how cooperation (or the lack thereof) via the production of a public good enzyme influences microbial population dynamics. His current project as a Postdoctoral researcher investigates how spatial structure influences a microbial community’s functions and stability. Generally, Bryan is interested in the intersections of ecology, evolution, and social science. Outside of academia you can usually find Bryan obsessing over his cat, Pancake, trying to find the best doughnuts in town, or starting a new craft to abandon halfway through finishing.
+
+bklynn@uci.edu
 
 
-<img style="float: right;" src="images/emi2.JPG">
 ## Emiliana Zapata 
+<img style="float: right;" src="images/emi2.JPG">
 Emiliana Zapata is the lab pet. She is interested volatiles produced through microbe-animal interactions. She is named after Emiliano Zapata, a leader of the Mexican Revolution. 
 
 
@@ -54,6 +58,21 @@ If you are an undergraduate student interested in doing reserach in our lab as p
 
 
 # Lab alumni
+## Daniela Reyes-González
+<img style="float: left;" src="images/Daniela.jpg" width="180">
+I’m a microbiologist trying to understand ecological interactions between microbes and their environment. I have an undergrad degree in microbiology from the Autonomous University of Queretaro (UAQ) and a Ph.D in science from the National Autonomous University of Mexico (UNAM), where I worked identifying and describing microbial interactions using a synthetic experimental system and mathematical models in the [Fuentes-Hernández lab](http://www.fuentes-hernandez.com/) at the Center of Genomic Sciences.
+Currently, I’m interested in understanding the ecological role of antimicrobial molecules in natural microbial communities and the importance of metabolic changes in the structure and functionality of communities.
+I’m also interest in gender and ethics studies applied to science, the interactions between science and art and science communication.
+In my free time I enjoy knitting, reading and photography.
+
+bronislava.drg@gmail.com
+
+Web: https://danielareyesglez.com
+
+Google Scholar: [Daniela Reyes-González](https://scholar.google.es/citations?user=fwnfLJgAAAAJ&hl=es)
+
+Twitter: [@DanielaReyesGlez](https://twitter.com/DanielaReyesGlz)
+
 ## Liz Ortiz De Ora Ortiz
 <img style="float: right;" src="images/Liz.jpg" width="180">
 I am originally from Mexico and earned my PhD in molecular microbiology from Tel Aviv University. I am passionate about the molecular mechanisms by which bacteria thrive in their environments. My research focuses on understanding inter-kingdom signaling mechanisms that govern host-microbe interactions and evolution.
