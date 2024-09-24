@@ -16,7 +16,7 @@ I tend to be pluralist about ways of thinking and forms of looking at the world.
 I am a plant and microbial ecologist, deeply passionate about understanding plant-microbiome interactions and their impacts on plant fitness. My long-term goal is to apply this knowledge to improve agricultural practices. I earned my undergraduate degree in Biology from the Universidad Autónoma Metropolitana in Mexico City. I then pursued a PhD in Sciences at the Instituto de Ecología of the Universidad Nacional Autónoma de México (UNAM), under the guidance of Dr. Ana E. Escalante. My doctoral research explored how plant genetic diversity influences phenotypic traits and ecological interactions in wild cotton populations. Currently, in the COMMONS Lab, my research centers on investigating the effects of the microbiome on plant development, using Arabidopsis thaliana as a model. I am also studying how plant domestication influences the assembly and diversity of the root microbiome across various crops. Also, I have a strong interest in bioinformatics and data visualization. Outside of my scientific work, I enjoy botanical drawing, bouldering, and cycling.
 
 ## Bryan Lynn
-<img style="float: left; width: 250px" src="images/bryan.jpg">
+<img style="float: right; width: 250px" src="images/bryan.jpg">
 Bryan takes both a theoretical and empirical approach to understanding the effect of microbial interactions, ecology, and evolution. His first passion was math. Earning his BS in mathematics from the University of Massachusetts – Boston he later found himself enamored with applying mathematical theory to microbial ecology. He went on to earn a PhD in Integrative Biology from Oregon State University with advisors Patrick De Leenheer and Martin Schuster by combining both theoretical and lab experimentation to understand how cooperation (or the lack thereof) via the production of a public good enzyme influences microbial population dynamics. His current project as a Postdoctoral researcher investigates how spatial structure influences a microbial community’s functions and stability. Generally, Bryan is interested in the intersections of ecology, evolution, and social science. Outside of academia you can usually find Bryan obsessing over his cat, Pancake, trying to find the best doughnuts in town, or starting a new craft to abandon halfway through finishing.
 
 
@@ -26,7 +26,7 @@ I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a pl
 
 
 ## Jaewook Le
-<img style="float: left; width: 250px" src="images/jaewook1.jpg">
+<img style="float: right; width: 250px" src="images/jaewook1.jpg">
 I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
 
 ## Joaquin Lopez
@@ -38,7 +38,7 @@ I am a first-year PhD student in Ecology and Evolutionary Biology at UCI. I rece
 I grew up in Santa Cruz, California and graduated from UCI with a BS in Ecology and Evolutionary Biology. I was adopted by the lab as a research assistant following graduation and since then, I have been studying the impact of different antibiotics and carbon sources on microbial community dynamics. My research interests lie somewhere in the realm of how microbial ecology modulates plant and insect interactions–especially in the context of a changing environment. I look forward to applying for an ecology-based PhD program to pursue these interests further in 2025! Outside the lab, I love to cook, walk around aimlessly and chat with friends, obsessively find ant trails, and hunt for cool finds at local thrifts.
 
 ## Manny Vergara Cardoso
-<img style="float: right; width: 250px" src="images/manu.jpg">
+<img style="float: left; width: 250px" src="images/manu.jpg">
 I was born and raised in Puebla, Mexico where my interest in plants, animals, and the environment grew. Currently working on my biology BS from UCI, and part time bartender. I am interested in the interactions between microorganisms and their environment with plants. In the future I plan to work in the healthcare system, and try to make a positive change in the world.
 
 ## Valeria Molina Castillejos
@@ -46,7 +46,7 @@ I was born and raised in Puebla, Mexico where my interest in plants, animals, an
 I’m an international student from Mexico and a 4th-year Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
 
 ## Emiliana Zapata 
-<img style="float: right;" src="images/emi2.JPG" width="180">
+<img style="float: left;" src="images/emi2.JPG" width="180">
 Emiliana Zapata is the lab pet. She is interested volatiles produced through microbe-animal interactions. She is named after Emiliano Zapata, a leader of the Mexican Revolution. 
 
 ## You?
@@ -73,7 +73,7 @@ Google Scholar: [Daniela Reyes-González](https://scholar.google.es/citations?us
 Twitter: [@DanielaReyesGlez](https://twitter.com/DanielaReyesGlz)
 
 ## Liz Ortiz De Ora Ortiz
-<img style="float: right;" src="images/Liz.jpg" width="180">
+<img style="float: left;" src="images/Liz.jpg" width="180">
 I am originally from Mexico and earned my PhD in molecular microbiology from Tel Aviv University. I am passionate about the molecular mechanisms by which bacteria thrive in their environments. My research focuses on understanding inter-kingdom signaling mechanisms that govern host-microbe interactions and evolution.
 
 ## Alyba Nisar
@@ -81,7 +81,7 @@ I am originally from Mexico and earned my PhD in molecular microbiology from Tel
 I graduated from UCI with a bachelor's degree in Biological Sciences. I am passionate about delving into the intricate relationship between microbial ecology and medicine through rigorous research. My goal is to uncover innovative solutions to longstanding medical challenges by leveraging the unique insights gained from studying microbial communities. Ultimately, I aspire to become a doctor, where I can apply my knowledge and research to directly impact patient care and contribute to the advancement of medical science. In the COMMONS Lab, I am investigating how the composition of bacterial communities affects the dynamics of antibiotic resistance. Besides my research and studying, I enjoy going out with my friends and family trying new restaurants, I love working out, doing floral work, and interior designing!
 
 ## Kelly Tsai
-<img style="float: right;" src="images/kelly2.jpg" width="180">
+<img style="float: left;" src="images/kelly2.jpg" width="180">
 Hi! I’m Kelly! I’ve recently graduated from UCI as a Human Biology major, currently taking a year off to get some direction in life! While at UCI, some of the topics that most interested me were climate change and the evolution of antibiotic resistance. I enjoy playing badminton, painting, and looking at nature but my love of nature is kind of at odds with my terrible fear of chimpanzees, bears, and mountain lions unfortunately.
 
 ## Melinda Nguyen
@@ -89,7 +89,7 @@ Hi! I’m Kelly! I’ve recently graduated from UCI as a Human Biology major, cu
 I received my undergraduate degree in Biological Sciences along with a minor in Medical Humanities from UCI. I have always had an interest in healthcare and am currently in school to become a dental hygienist. In the COMMONS lab, I studied the effects of different microbial communities on the developmental timing and fitness of Arabidopsis thaliana. I like to keep houseplants, which made me interested in how different variables can affect plant development. In my collection, I have over 20 house plants ranging from monsteras to philodendrons to pothos. I also enjoy reading, cooking, and finding new food places.
 
 ## Kaitlyn Ho
-<img style="float: right;" src="images/kaitlyn.jpg" width="180">
+<img style="float: left;" src="images/kaitlyn.jpg" width="180">
 I am a Biological Sciences graduate from UCI. My curiosity about microbes developed upon taking a course on how gut health is influenced by microbiomes. This new interest, combined with my love for plants, led me to pursue undergraduate research in microbial ecology! In the COMMONS Lab, I explored how particular microbial communities impact plant development and fitness. Currently, I am working toward a career as a Clinical Laboratory Scientist and enjoy gardening, weightlifting, and cooking/baking in my free time.
 
 
