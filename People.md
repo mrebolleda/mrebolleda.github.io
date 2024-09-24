@@ -29,7 +29,7 @@ I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a pl
 <img style="float: left; width: 250px" src="images/jaewook1.jpg">
 I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
 
-## Joquin Lopez
+## Joaquin Lopez
 <img style="float: left; width: 250px" src="images/joaquin.jpg">
 I am a first-year PhD student in Ecology and Evolutionary Biology at UCI. I recently graduated from California State University San Marcos, where my research focused on investigating growth phenotypes and the expression of nitrogen-regulated genes in Arabidopsis thaliana. Additionally, I studied how variations in litter and land cover types influence initial rates of decomposition. In the COMMONS lab, I aim to integrate my previous research experiences and explore plant-microbe interactions, particularly how plants recruit beneficial microbial communities and how these mutualistic relationships are impacted by global change. Outside the lab, I enjoy exploring new coffee shops, reading fantasy and science fiction, camping, hiking, and cooking. Fun fact I have two fluffy orange cats!
 
