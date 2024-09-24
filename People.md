@@ -61,7 +61,7 @@ If you are an undergraduate student interested in doing reserach in our lab as p
 # Lab alumni
 ## Daniela Reyes González
 <img style="float: right;" src="images/Daniela.jpg" width="180">
-I’m a microbiologist trying to understand ecological interactions between microbes and their environment. I have an undergrad degree in microbiology from the Autonomous University of Queretaro (UAQ) and a Ph.D in science from the National Autonomous University of Mexico (UNAM), where I worked identifying and describing microbial interactions using a synthetic experimental system and mathematical models in the [Fuentes-Hernández lab](https://www.fuentes-hernandez.com/) at the Center of Genomic Sciences.
+I’m a microbiologist trying to understand ecological interactions between microbes and their environment. I have an undergrad degree in microbiology from the Autonomous University of Queretaro (UAQ) and a Ph.D in science from the National Autonomous University of Mexico (UNAM), where I worked identifying and describing microbial interactions using a synthetic experimental system and mathematical models in the <a href="https://www.fuentes-hernandez.com/">Fuentes-Hernández lab</a> at the Center of Genomic Sciences.
 Currently, I’m interested in understanding the ecological role of antimicrobial molecules in natural microbial communities and the importance of metabolic changes in the structure and functionality of communities.
 I’m also interest in gender and ethics studies applied to science, the interactions between science and art and science communication.
 In my free time I enjoy knitting, reading and photography.
