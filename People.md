@@ -25,7 +25,7 @@ Bryan takes both a theoretical and empirical approach to understanding the effec
 I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a place of extremes, I developed a curiosity for the adaptability of all natural things. My work at the COMMONS Lab looks at how bacterial physiology has historically evolved and what that entails for its adaptability to a boiling world. On that note, I always enjoy chatting about our own species’ uncertain future, and all things worth caring for. I also love music, books, and spending a lot of time on small things.
 
 
-## Jaewook Lee
+## Jaewook Le
 <img style="float: left; width: 250px" src="images/jaewook1.jpg">
 I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
 
