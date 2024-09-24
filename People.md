@@ -11,7 +11,7 @@ I am interested in how evolutionary processes evolve, the roles of history and c
 
 I tend to be pluralist about ways of thinking and forms of looking at the world. Therefore, I really value and appreciate difference and have a strong commitment to increasing representation of minorities in science, including questioning and changing the ways our disciplines are exclusionary and built on histories of oppression.
 
-## Alejandra Hernández-Terán
+## Alejandra Hernández Terán
 <img style="float: left; width: 250px;" src="images/ale.jpg">
 I am a plant and microbial ecologist, deeply passionate about understanding plant-microbiome interactions and their impacts on plant fitness. My long-term goal is to apply this knowledge to improve agricultural practices. I earned my undergraduate degree in Biology from the Universidad Autónoma Metropolitana in Mexico City. I then pursued a PhD in Sciences at the Instituto de Ecología of the Universidad Nacional Autónoma de México (UNAM), under the guidance of Dr. Ana E. Escalante. My doctoral research explored how plant genetic diversity influences phenotypic traits and ecological interactions in wild cotton populations. Currently, in the COMMONS Lab, my research centers on investigating the effects of the microbiome on plant development, using Arabidopsis thaliana as a model. I am also studying how plant domestication influences the assembly and diversity of the root microbiome across various crops. Also, I have a strong interest in bioinformatics and data visualization. Outside of my scientific work, I enjoy botanical drawing, bouldering, and cycling.
 
@@ -59,7 +59,7 @@ If you are an undergraduate student interested in doing reserach in our lab as p
 
 
 # Lab alumni
-## Daniela Reyes-González
+## Daniela Reyes González
 <img style="float: right;" src="images/Daniela.jpg" width="180">
 I’m a microbiologist trying to understand ecological interactions between microbes and their environment. I have an undergrad degree in microbiology from the Autonomous University of Queretaro (UAQ) and a Ph.D in science from the National Autonomous University of Mexico (UNAM), where I worked identifying and describing microbial interactions using a synthetic experimental system and mathematical models in the [Fuentes-Hernández lab](https://www.fuentes-hernandez.com/) at the Center of Genomic Sciences.
 Currently, I’m interested in understanding the ecological role of antimicrobial molecules in natural microbial communities and the importance of metabolic changes in the structure and functionality of communities.
