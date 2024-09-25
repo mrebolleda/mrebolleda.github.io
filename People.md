@@ -21,18 +21,19 @@ Bryan takes both a theoretical and empirical approach to understanding the effec
 
 
 ## Ariel Favier
+<br />
 <img style="float: right; width: 250px; margin-left: 15px;" src="images/ariel1.jpg">
 I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a place of extremes, I developed a curiosity for the adaptability of all natural things. My work at the COMMONS Lab looks at how bacterial physiology has historically evolved and what that entails for its adaptability to a boiling world. On that note, I always enjoy chatting about our own species’ uncertain future, and all things worth caring for. I also love music, books, and spending a lot of time on small things.
 
 <br />
 <br />
-<br />
+
 
 ## Jaewook Le
+<br />
 <img style="float: left; width: 250px; margin-right: 15px;" src="images/jaewook1.jpg">
 I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
 
-<br />
 <br />
 <br />
 
@@ -48,32 +49,35 @@ I grew up in Santa Cruz, California and graduated from UCI with a BS in Ecology 
 
 ## Manny Vergara Cardoso
 <img style="float: right; width: 250px; margin-left: 15px;" src="images/manu.jpg">
+<br />
 I was born and raised in Puebla, Mexico where my interest in plants, animals, and the environment grew. Currently working on my biology BS from UCI, and part time bartender. I am interested in the interactions between microorganisms and 
 their environment with plants. In the future I plan to work in the healthcare system, and try to make a positive change in the world.
 
 <br />
 <br />
-<br />
 
 ## Valeria Molina Castillejos
 <img style="float: left; width: 250px; margin-right: 15px;" src="images/val.jpg">
-I’m an international student from Mexico and a 4th-year Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
 
 <br />
+I’m an international student from Mexico and a 4th-year Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
+
 <br />
 <br />
 
 ## Emiliana Zapata 
 <img style="float: right; margin-left: 15px;" src="images/emi2.JPG" width="180">
+
+<br />
 Emiliana Zapata is the lab pet. She is interested volatiles produced through microbe-animal interactions. She is named after Emiliano Zapata, a leader of the Mexican Revolution. 
+
+<br />
 
 ## You?
 
-If you are a graduate student interested in joinning the COMMONS lab, read our website and reach out! Write Maria an email (mreboll1@uci.edu) with some information about you and why are you interested in joinning.
+If you are an undergraduate student interested in doing reserach in our lab as part of BIO199, please reach out! Write Maria an email (mreboll1@uci.edu) with some information about you and why are you interested in joining our lab.
 
-If you are an undergraduate student interested in doing reserach in our lab as part of BIO199, please reach out! Write Maria an email (mreboll1@uci.edu) with some information about you and why are you interested in joinning our lab.
-
-**We currently do not have funding for new postdocs**
+**We currently are not accepting new graduate students and we do not have funding for new postdocs, but we are happy to talk about possible funding and collaborations**
 
 
 # Lab alumni
