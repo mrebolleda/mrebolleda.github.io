@@ -24,10 +24,17 @@ Bryan takes both a theoretical and empirical approach to understanding the effec
 <img style="float: right; width: 250px; margin-left: 15px;" src="images/ariel1.jpg">
 I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a place of extremes, I developed a curiosity for the adaptability of all natural things. My work at the COMMONS Lab looks at how bacterial physiology has historically evolved and what that entails for its adaptability to a boiling world. On that note, I always enjoy chatting about our own species’ uncertain future, and all things worth caring for. I also love music, books, and spending a lot of time on small things.
 
+<br />
+<br />
+<br />
 
 ## Jaewook Le
 <img style="float: left; width: 250px; margin-right: 15px;" src="images/jaewook1.jpg">
 I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
+
+<br />
+<br />
+<br />
 
 ## Joaquin Lopez
 <img style="float: right; width: 250px; margin-left: 15px;" src="images/joaquin.jpg">
@@ -37,13 +44,24 @@ I am a first-year PhD student in Ecology and Evolutionary Biology at UCI. I rece
 <img style="float: left; width: 250px; margin-right: 15px;" src="images/jaycee.jpg">
 I grew up in Santa Cruz, California and graduated from UCI with a BS in Ecology and Evolutionary Biology. I was adopted by the lab as a research assistant following graduation and since then, I have been studying the impact of different antibiotics and carbon sources on microbial community dynamics. My research interests lie somewhere in the realm of how microbial ecology modulates plant and insect interactions–especially in the context of a changing environment. I look forward to applying for an ecology-based PhD program to pursue these interests further in 2025! Outside the lab, I love to cook, walk around aimlessly and chat with friends, obsessively find ant trails, and hunt for cool finds at local thrifts.
 
+<br />
+
 ## Manny Vergara Cardoso
 <img style="float: right; width: 250px; margin-left: 15px;" src="images/manu.jpg">
-I was born and raised in Puebla, Mexico where my interest in plants, animals, and the environment grew. Currently working on my biology BS from UCI, and part time bartender. I am interested in the interactions between microorganisms and their environment with plants. In the future I plan to work in the healthcare system, and try to make a positive change in the world.
+I was born and raised in Puebla, Mexico where my interest in plants, animals, and the environment grew. Currently working on my biology BS from UCI, and part time bartender. I am interested in the interactions between microorganisms and 
+their environment with plants. In the future I plan to work in the healthcare system, and try to make a positive change in the world.
+
+<br />
+<br />
+<br />
 
 ## Valeria Molina Castillejos
 <img style="float: left; width: 250px; margin-right: 15px;" src="images/val.jpg">
 I’m an international student from Mexico and a 4th-year Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
+
+<br />
+<br />
+<br />
 
 ## Emiliana Zapata 
 <img style="float: right; margin-left: 15px;" src="images/emi2.JPG" width="180">
