@@ -67,7 +67,7 @@ This is our team of microbial mascotas! Incidentally, all share an interest in t
 
 
 ## You?
-
+<hr style="width: 100%; margin: 0 auto 20px auto;">
 If you are an undergraduate student interested in doing research in our lab as part of BIO199, please reach out! Write Maria an email (mreboll1@uci.edu) with some information about you and why are you interested in joining our lab.
 
 **We currently are not accepting new graduate students and we do not have funding for new postdocs, but we are happy to talk about possible funding and collaborations**
