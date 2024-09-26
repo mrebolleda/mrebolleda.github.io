@@ -56,10 +56,14 @@ their environment with plants. In the future I plan to work in the healthcare sy
 I’m an international student from Mexico and a 4th-year Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
 
 
-## Emiliana Zapata 
+## Lab Pets! 
 <hr style="width: 100%; margin: 0 auto 20px auto;">
-<img style="display: block; margin: 0 0 15px 0;" src="images/emi2.JPG" width="180">
-Emiliana Zapata is the lab pet. She is interested volatiles produced through microbe-animal interactions. She is named after Emiliano Zapata, a leader of the Mexican Revolution. 
+<div style="display: flex; align-items: flex-start;">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/emi2.JPG" width="180" alt="Emi">
+    <img style="display: block; margin: 0 0 15px 0;" src="images/bruno and nobe.jpg" width="180" alt="Bruno & Nobe">
+</div>
+
+This is our team of microbial mascotas who all share an interest in the volatiles produced through microbe-animal interactions. From left to right, we have: Emiliana Zapata (named after Emiliano Zapata a leader of the Mexican Revolution), Bruno and Nobe
 
 
 ## You?
