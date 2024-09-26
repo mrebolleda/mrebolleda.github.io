@@ -4,7 +4,7 @@ title: People
 ---
 
 ## María Rebolleda Gómez 
-<hr style="width: 100%; margin: 0 auto 20px auto; padding: 0;">
+<hr style="width: 100%; margin: 0 auto 20px auto;">
 <img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/NewOrleans.jpg">
 I am an evolutionary ecologist fascinated with bacteria, fungi, and plants. I did my undergraduate degree in Biology at UNAM (the National University in Mexico) and my PhD at the University of Minnesota with Michael Travisano. 
 
@@ -57,7 +57,7 @@ I’m an international student from Mexico and a 4th-year Biological Sciences ma
 
 
 ## Emiliana Zapata 
-<hr style="width: 100%; margin: 0 auto 20px auto; padding: 0;">
+<hr style="width: 100%; margin: 0 auto 20px auto;">
 <img style="display: block; margin: 0 0 15px 0;" src="images/emi2.JPG" width="180">
 Emiliana Zapata is the lab pet. She is interested volatiles produced through microbe-animal interactions. She is named after Emiliano Zapata, a leader of the Mexican Revolution. 
 
