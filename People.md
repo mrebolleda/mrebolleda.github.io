@@ -40,7 +40,7 @@ I am a first-year PhD student in Ecology and Evolutionary Biology at UCI. I rece
 
 ## Jaycee Fahrner
 <hr style="width: 100%; margin: 0 auto 20px auto;">
-<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/jaycee.jpg">
+<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/jaycee1.jpg">
 I grew up in Santa Cruz, California and graduated from UCI with a BS in Ecology and Evolutionary Biology. I was adopted by the lab as a research assistant following graduation and since then, I have been studying the impact of different antibiotics and carbon sources on microbial community dynamics. My research interests lie somewhere in the realm of how microbial ecology modulates plant and insect interactions–especially in the context of a changing environment. I look forward to applying for an ecology-based PhD program to pursue these interests further in 2025! Outside the lab, I love to cook, walk around aimlessly and chat with friends, obsessively find ant trails, and hunt for cool finds at local thrifts.
 <br />
 
