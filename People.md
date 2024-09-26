@@ -4,6 +4,7 @@ title: People
 ---
 
 ## María Rebolleda Gómez 
+<hr style="width: 80%; margin: auto;">
 <img style="float: left; width: 250px; margin-right: 15px;" src="images/NewOrleans.jpg">
 I am an evolutionary ecologist fascinated with bacteria, fungi, and plants. I did my undergraduate degree in Biology at UNAM (the National University in Mexico) and my PhD at the University of Minnesota with Michael Travisano. 
 
