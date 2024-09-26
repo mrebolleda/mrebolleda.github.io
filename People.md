@@ -63,7 +63,7 @@ I’m an international student from Mexico and a 4th-year Biological Sciences ma
     <img style="display: block; margin: 0 0 15px 0;" src="images/bruno and nobe.jpg" width="180" alt="Bruno & Nobe">
 </div>
 
-This is our team of microbial mascotas who all share an interest in the volatiles produced through microbe-animal interactions. From left to right, we have: Emiliana Zapata (named after Emiliano Zapata a leader of the Mexican Revolution), Bruno and Nobe
+This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. From left to right, we have: Emiliana Zapata (named after Emiliano Zapata a leader of the Mexican Revolution), Bruno and Nobe
 
 
 ## You?
