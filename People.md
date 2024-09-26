@@ -60,11 +60,11 @@ I’m an international student from Mexico and a 4th-year Biological Sciences ma
 <hr style="width: 100%; margin: 0 auto 20px auto;">
 <div style="display: flex; align-items: flex-start;">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/emi2.JPG" width="180">
+        <img style="display: block; margin: 0 15px 15px 0;" src="images/laika.jpg" width="180">
     <img style="display: block; margin: 0 0 15px 0;" src="images/bruno and nobe.jpg" width="250">
-    <img style="display: block; margin: 0 15px 15px 0;" src="images/laika.jpg" width="180">
 </div>
 
-This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. From left to right, we have: Emiliana Zapata (named after Emiliano Zapata a leader of the Mexican Revolution), Bruno and Nobe
+This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. From left to right, we have: Emiliana Zapata (named after Emiliano Zapata a leader of the Mexican Revolution), Laika, Bruno and Nobe
 
 
 ## You?
