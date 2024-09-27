@@ -68,7 +68,10 @@ I’m an international student from Mexico and a 4th-year Biological Sciences ma
     <img style="display: block; margin: 0 15px 15px 0;" src="images/pancake.jpg" width="250">
 </div>
 
-This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. Top row: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican Revolution), Laika, Bruno and Nobe, Tadeo, and Athena
+This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. 
+<br/>
+Top row: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican Revolution), Laika, Bruno and Nobe, Tadeo, and Athena
+<br/>
 Second row: Evan, Ken, and Pancake
 
 
