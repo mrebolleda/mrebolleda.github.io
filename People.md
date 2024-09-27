@@ -62,9 +62,14 @@ I’m an international student from Mexico and a 4th-year Biological Sciences ma
     <img style="display: block; margin: 0 15px 15px 0;" src="images/laika.jpg" width="180">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/bruno and nobe.jpg" width="250">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/tadeo.jpg" width="180">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/athena.jpg" width="180">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/evan.jpg" width="180">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/ken.png" width="180">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/pancake.jpg" width="250">
 </div>
 
-This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. From left to right, we have: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican Revolution), Laika, Bruno and Nobe, Tadeo
+This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. Top row: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican Revolution), Laika, Bruno and Nobe, Tadeo, and Athena
+Second row: Evan, Ken, and Pancake
 
 
 ## You?
