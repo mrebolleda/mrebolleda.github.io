@@ -28,7 +28,7 @@ Bryan takes both a theoretical and empirical approach to understanding the effec
 <img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/ariel1.jpg">
 I am a PhD Candidate from Andean Patagonia. Having lived most of my life in a place of extremes, I developed a curiosity for the adaptability of all natural things. My work at the COMMONS Lab looks at how bacterial physiology has historically evolved and what that entails for its adaptability to a boiling world. On that note, I always enjoy chatting about our own species’ uncertain future, and all things worth caring for. I also love music, books, and spending a lot of time on small things.
 
-## Jaewook Le
+## Jaewook Lee
 <hr style="width: 100%; margin: 0 auto 20px auto;">
 <img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/jaewook1.jpg">
 I am a third year PhD student in the Ecology and Evolutionary Biology department at UCI. I graduated from Ohio State University majoring in computer science. Currently, my research interests lie in investigating how environmental factors can be harnessed to increase microbial functions of interest at both an individual and community level. My hobbies include playing the piano and drawing.
@@ -72,7 +72,7 @@ I’m an international student from Mexico and a 4th-year Biological Sciences ma
 
 This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. 
 <br/>
-Top row: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican Revolution), Laika, Bruno and Nobe, Tadeo, and Athena
+Top row: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican Revolution), Laika, Bruno and Nube, Tadeo, and Athena
 <br/>
 Second row: Evan, Ken, and Pancake
 
