@@ -70,13 +70,14 @@ I’m an international student from Mexico and a 4th-year Biological Sciences ma
     <img style="display: block; margin: 0 15px 15px 0;" src="images/ken.png" width="180">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/pancake.jpg" width="250">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/lucy.jpg" width="180">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/mishous.jpeg" width="180">
 </div>
 
 This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. 
 <br/>
 Top row: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican Revolution), Laika, Bruno and Nube, Tadeo, and Athena
 <br/>
-Second row: Evan, Ken, Pancake, and Lucy
+Second row: Evan, Ken, Pancake, Lucy, and The Mishous
 
 
 ## You?
