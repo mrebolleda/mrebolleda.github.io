@@ -80,7 +80,7 @@ I am a third year undergraduate EcoEvo major at UCI. I’m currently doing Bio 1
     <img style="display: block; margin: 0 15px 15px 0;" src="images/mishous.jpeg" width="180">
 </div>
 <div style="display: flex; align-items: flex-start;">
-    <img style="display: block; margin: 0 15px 15px 0;" src="images/caden_pets.jpg" width="250">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/caden_pets.jpg" width="300">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/penny.jpg" width="180">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/basil.jpg" width="180">
 </div>
