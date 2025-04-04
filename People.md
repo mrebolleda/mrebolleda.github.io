@@ -55,6 +55,8 @@ their environment with plants. In the future I plan to work in the healthcare sy
 I’m an international student from Mexico and a 4th-year Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
 
 ## Caden Owens
+<hr style="width: 100%; margin: 0 auto 20px auto;">
+<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/caden.jpg">
 I’m a third year undergraduate EcoEvo major at UCI. I’m currently doing Bio 199 at the COMMONS lab, studying how microbial interactions impact flowering time and plant development. In the future, I hope to go into cultural or natural resource management.
 
 
@@ -77,12 +79,17 @@ I’m a third year undergraduate EcoEvo major at UCI. I’m currently doing Bio 
     <img style="display: block; margin: 0 15px 15px 0;" src="images/lucy.jpg" width="180">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/mishous.jpeg" width="180">
 </div>
+<div style="display: flex; align-items: flex-start;">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/caden_pets.jpg" width="250">
+</div>
 
 This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. 
 <br/>
 Top row: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican Revolution), Laika, Bruno and Nube, Tadeo, and Athena
 <br/>
 Second row: Evan, Ken, Pancake, Lucy, and The Mishous
+<br/>
+Third row: Charles and Mack
 
 
 ## You?
