@@ -56,7 +56,7 @@ I’m an international student from Mexico and a 4th-year Biological Sciences ma
 
 ## Caden Owens
 <hr style="width: 100%; margin: 0 auto 20px auto;">
-<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/caden.jpg">
+<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/val.jpg">
 I am a third year undergraduate EcoEvo major at UCI. I’m currently doing Bio 199 at the COMMONS lab, studying how microbial interactions impact flowering time and plant development. In the future, I hope to go into cultural or natural resource management.
 
 
