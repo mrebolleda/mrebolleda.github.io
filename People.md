@@ -89,7 +89,7 @@ Top row: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican R
 <br/>
 Second row: Evan, Ken, Pancake, Lucy, and The Mishous
 <br/>
-Third row: Charles and Mack
+Third row: Charles and Mack, Penny, and Basil
 
 
 ## You?
