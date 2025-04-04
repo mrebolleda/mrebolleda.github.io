@@ -54,6 +54,11 @@ their environment with plants. In the future I plan to work in the healthcare sy
 <img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/val.jpg">
 I’m an international student from Mexico and a 4th-year Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
 
+## Caden Owens
+I’m a third year undergraduate EcoEvo major at UCI. I’m currently doing Bio 199 at the COMMONS lab, studying how microbial interactions impact flowering time and plant development. In the future, I hope to go into cultural or natural resource management.
+
+
+
 
 ## Lab Pets! 
 <hr style="width: 100%; margin: 0 auto 20px auto;">
