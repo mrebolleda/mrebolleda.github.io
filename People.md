@@ -46,19 +46,24 @@ I grew up in Santa Cruz, California and graduated from UCI with a BS in Ecology 
 ## Manny Vergara Cardoso
 <hr style="width: 100%; margin: 0 auto 20px auto;">
 <img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/manu.jpg">
-I was born and raised in Puebla, Mexico where my interest in plants, animals, and the environment grew. Currently working on my biology BS from UCI, and part time bartender. I am interested in the interactions between microorganisms and 
+I was born and raised in Puebla, Mexico where my interest in plants, animals, and the environment grew. I am a part time bartender, and I recently graduated with my BS in Biological Sciences from UCI! I am interested in the interactions between microorganisms and 
 their environment with plants. In the future I plan to work in the healthcare system, and try to make a positive change in the world.
 
 ## Valeria Molina Castillejos
 <hr style="width: 100%; margin: 0 auto 20px auto;">
 <img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/val.jpg">
-I’m an international student from Mexico and a 4th-year Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
+I’m an international student from Mexico and a recent graduate from the Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
 
 ## Caden Owens
 <hr style="width: 100%; margin: 0 auto 20px auto;">
 <img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/caden.jpg">
-I am a third year undergraduate EcoEvo major at UCI. I’m currently doing Bio 199 at the COMMONS lab, studying how microbial interactions impact flowering time and plant development. In the future, I hope to go into cultural or natural resource management.
+I am a fourth-year undergraduate EcoEvo major at UCI. I’m currently doing Bio 199 at the COMMONS lab, studying how microbial interactions impact flowering time and plant development. In the future, I hope to go into cultural or natural resource management.
 
+
+## Maggie Jiayi Yan
+<hr style="width: 100%; margin: 0 auto 20px auto;">
+<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/maggie.jpeg">
+I am a 2nd year Chemistry major with an avid interest in microbial communities and how they interact with one another. I enjoy swimming, baking, and playing tennis outside of the lab. In the future I hope to become a physician!
 
 
 
@@ -83,6 +88,7 @@ I am a third year undergraduate EcoEvo major at UCI. I’m currently doing Bio 1
     <img style="display: block; margin: 0 15px 15px 0;" src="images/caden_pets.jpg" width="300">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/penny.jpg" width="180">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/basil.jpg" width="180">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/cookie.png" width="180">
 </div>
 
 This is our team of microbial mascotas! Incidentally, all share an interest in the volatiles produced through microbe-animal interactions. 
@@ -91,7 +97,7 @@ Top row: Emiliana Zapata (named after Emiliano Zapata, a leader of the Mexican R
 <br/>
 Second row: Evan, Ken, Pancake, Lucy, and The Mishous
 <br/>
-Third row: Charles and Mack, Penny, and Basil
+Third row: Charles and Mack, Penny, Basil, and Cookie
 
 
 ## You?
