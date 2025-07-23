@@ -72,10 +72,10 @@ I am a 2nd year Chemistry major with an avid interest in microbial communities a
     <img style="display: block; margin: 0 15px 15px 0;" src="images/ken.png" width="180">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/pancake.jpg" width="250">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/lucy.jpg" width="180">
-    <img style="display: block; margin: 0 15px 15px 0;" src="images/mishous.jpeg" width="180">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/mishous1.jpeg" width="180">
 </div>
 <div style="display: flex; align-items: flex-start;">
-    <img style="display: block; margin: 0 15px 15px 0;" src="images/caden_pets.jpg" width="300">
+    <img style="display: block; margin: 0 15px 15px 0;" src="images/caden_pets.jpg" width="250">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/penny.jpg" width="180">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/basil.jpg" width="180">
     <img style="display: block; margin: 0 15px 15px 0;" src="images/cookie.png" width="180">
