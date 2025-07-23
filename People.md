@@ -38,21 +38,11 @@ I am a third year PhD student in the Ecology and Evolutionary Biology department
 <img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/joaquin.jpg">
 I am a first-year PhD student in Ecology and Evolutionary Biology at UCI. I recently graduated from California State University San Marcos, where my research focused on investigating growth phenotypes and the expression of nitrogen-regulated genes in Arabidopsis thaliana. Additionally, I studied how variations in litter and land cover types influence initial rates of decomposition. In the COMMONS lab, I aim to integrate my previous research experiences and explore plant-microbe interactions, particularly how plants recruit beneficial microbial communities and how these mutualistic relationships are impacted by global change. Outside the lab, I enjoy exploring new coffee shops, reading fantasy and science fiction, camping, hiking, and cooking. Fun fact I have two fluffy orange cats!
 
-## Jaycee Fahrner
-<hr style="width: 100%; margin: 0 auto 20px auto;">
-<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/jaycee.png">
-I grew up in Santa Cruz, California and graduated from UCI with a BS in Ecology and Evolutionary Biology. I was adopted by the lab as a research assistant following graduation and since then, I have been studying the impact of different antibiotics and carbon sources on microbial community dynamics. My research interests lie somewhere in the realm of how microbial ecology modulates plant and insect interactions–especially in the context of a changing environment. I look forward to starting my PhD in Fall 2025 to refine these interests further at Boise State University! Outside the lab, I love to cook, walk around aimlessly chatting with friends with an overpriced coffee in hand, obsessively find ant trails, and hunt for cool finds at local thrifts.
-
 ## Manny Vergara Cardoso
 <hr style="width: 100%; margin: 0 auto 20px auto;">
 <img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/manu.jpg">
 I was born and raised in Puebla, Mexico where my interest in plants, animals, and the environment grew. I am a part time bartender, and I recently graduated with my BS in Biological Sciences from UCI! I am interested in the interactions between microorganisms and 
 their environment with plants. In the future I plan to work in the healthcare system, and try to make a positive change in the world.
-
-## Valeria Molina Castillejos
-<hr style="width: 100%; margin: 0 auto 20px auto;">
-<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/val.jpg">
-I’m an international student from Mexico and a recent graduate from the Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
 
 ## Caden Owens
 <hr style="width: 100%; margin: 0 auto 20px auto;">
@@ -108,6 +98,16 @@ If you are an undergraduate student interested in doing research in our lab as p
 
 
 # Lab alumni
+## Jaycee Fahrner
+<hr style="width: 100%; margin: 0 auto 20px auto;">
+<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/jaycee.png">
+I grew up in Santa Cruz, California and graduated from UCI with a BS in Ecology and Evolutionary Biology. I was adopted by the lab as a research assistant following graduation and since then, I have been studying the impact of different antibiotics and carbon sources on microbial community dynamics. My research interests lie somewhere in the realm of how microbial ecology modulates plant and insect interactions–especially in the context of a changing environment. I look forward to starting my PhD in Fall 2025 to refine these interests further at Boise State University! Outside the lab, I love to cook, walk around aimlessly chatting with friends with an overpriced coffee in hand, obsessively find ant trails, and hunt for cool finds at local thrifts.
+
+## Valeria Molina Castillejos
+<hr style="width: 100%; margin: 0 auto 20px auto;">
+<img style="display: block; margin: 0 0 15px 0; width: 250px;" src="images/val.jpg">
+I’m an international student from Mexico and a recent graduate from the Biological Sciences major at UCI. As a member of the COMMONS Lab, I’m passionate about researching microbial communities in plant development and love collaborating on hands-on experiments. The lab has deeply enriched my college experience, sparking my interest in field biology, where I aspire to make scientific contributions. Outside the lab, I enjoy cooking, writing, and spending time with friends.
+
 ## Daniela Reyes González
 <hr style="width: 100%; margin: 0 auto 20px auto;">
 <img style="display: block; margin: 0 0 15px 0;" src="images/Daniela.jpg" width="180">
